@@ -6,11 +6,13 @@ This is the first experiment of Image Segmentation for <b>Medical Segmentation D
 and a 512x512 pixels PNG 
 <a href="https://drive.google.com/file/d/164_VJsNF16wvDgVfZr1mOeGLg4yW_L8J/view?usp=sharing">
 <b>MSD-Hippocampus-ImageMask-Dataset.zip</b></a> which was derived by us from <br><br>
-<a href="https://www.kaggle.com/datasets/andrewmvd/hippocampus-segmentation-in-mri-images">
-<b>Hippocampus Segmentation in MRI Images</b> </a> on the kaggle.com.
-<br><br> 
+<a href="https://drive.google.com/drive/folders/1HqEgzS8BV2c7xYNrZdEAnrHk7osJJ--2">
+<b>Task04_Hippocampus.tar</b> </a> <br>
+<b></b> 
+on <a href="http://medicaldecathlon.com/">Medical Segmentation Decathlon</a>.
+<br><br>
 <hr>
-<b>Actual Image Segmentation for Hippocampus Images of  512x512 pixels </b><br>
+<b>Actual Image Segmentation for Hippocampus Images of 512x512 pixels </b><br>
 As shown below, the inferred masks predicted by our segmentation model trained by the dataset appear similar to the ground truth masks.
 <br><br>
 <table>
